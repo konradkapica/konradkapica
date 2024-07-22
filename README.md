@@ -8,4 +8,4 @@
 </p>
 
 
-![Konrads's GitHub stats](https://github-readme-stats.vercel.app/api?username=konradkapica&show_icons=true&theme=onedark)
+![Konrads's GitHub stats](https://github-readme-stats.vercel.app/api?username=konradkapica&show_icons=true&theme=onedark&include_all_commits=true)
