@@ -1,4 +1,4 @@
-## Hi there 👋
+## Frontend dev 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=konradkapica&color=7851a9&style=flat-square&label=Profile+Views" alt="Profile Views" height="18">
